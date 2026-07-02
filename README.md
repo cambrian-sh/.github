@@ -1,4 +1,4 @@
-<picture style={margin-bottom:16px;}>
+<picture style="margin-bottom: 16px">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo_White.svg" width="400">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo.svg" width="400">
   <img alt="Cambrian" src="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo.svg" width="400">
