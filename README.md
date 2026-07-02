@@ -6,7 +6,7 @@
 
 # Cambrian
 
-_The OS for Agentic Organizations_
+**Cambrian** _— The OS for Agentic Organizations_
 
 Cambrian is an **agent operating system** — a complete runtime for AI agents with built-in memory, orchestration, browser automation, observation, verification, custom tools, and skills.
 
