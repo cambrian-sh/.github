@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo_Linear_White.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo_Linear.svg">
-  <img alt="Cambrian" src="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo_Linear.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo_White.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo.svg">
+  <img alt="Cambrian" src="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo.svg" width="400">
 </picture>
 
 # Cambrian
