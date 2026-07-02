@@ -4,8 +4,6 @@
   <img alt="Cambrian" src="https://raw.githubusercontent.com/cambrian-sh/design/main/cambrian_Logo.svg" width="400">
 </picture>
 
-# Cambrian
-
 **Cambrian** _— The OS for Agentic Organizations_
 
 Cambrian is an **agent operating system** — a complete runtime for AI agents with built-in memory, orchestration, browser automation, observation, verification, custom tools, and skills.
